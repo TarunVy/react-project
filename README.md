@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Deployed website link [Bright-otter](https://bright-otter-18bd2d.netlify.app)
 
 ## Available Scripts
 
